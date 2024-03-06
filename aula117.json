@@ -1,0 +1,24 @@
+{
+  "nome": "Vinicius Dante",
+  "sobrenome": "Poleti",
+  "enderecos": [
+    {
+      "rua": "R1",
+      "numero": 32
+    },
+    {
+      "rua": "R2",
+      "numero": 55
+    }
+  ],
+  "altura": 1.77,
+  "numeros_preferidos": [
+    2,
+    4,
+    6,
+    18,
+    20
+  ],
+  "dev": true,
+  "nada": null
+}
